@@ -3,7 +3,13 @@ Desafio Técnico - Data Scientist
 
 Olá,
 
-Primeiramente, queria enfatizar minha empolgação por esta oportunidada de fazer parte do time da LivUp. Me indentifico muito com os valores e cultura da empresa,  
+Primeiramente, queria enfatizar meu entusiasmo por esta oportunidade de fazer parte do time da LivUp. Me identifico muito com os valores e cultura da empresa, por isso espero poder contribuir para o crescimento da mesma em um futuro próximo.  
 
-Este desafio foi escrito na linguagem de programação Python e foi desenvolvido através do Jupyter Notebook.
+O desafio faz parte do processo seletivo para a vaga de Data Scientist na LivUp, ele foi escrito na linguagem de programação Python e foi desenvolvido através do ambiente computacional Jupyter Notebook.
 
+Neste repositório estão presentes o arquivo, no formato IPYNB, com todo o código desenvolvido no Jupyter Notebook. Além disso, o relatório apenas para visualização no formato HTML e o output do deasfio no formato CSV.
+
+Agradeço desde já pela atenção.
+
+Atenciosamente,
+Henrique Meira de Oliveira
