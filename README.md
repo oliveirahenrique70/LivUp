@@ -7,7 +7,7 @@ Primeiramente, queria enfatizar meu entusiasmo por esta oportunidade de fazer pa
 
 O desafio faz parte do processo seletivo para a vaga de Data Scientist na LivUp, ele foi escrito na linguagem de programação Python e foi desenvolvido através do ambiente computacional Jupyter Notebook.
 
-Neste repositório estão presentes o arquivo, no formato IPYNB, com todo o código desenvolvido no Jupyter Notebook. Além disso, o relatório apenas para visualização no formato HTML e o output do deasfio no formato CSV.
+Neste repositório estão presentes o arquivo, no formato IPYNB, com todo o código desenvolvido no Jupyter Notebook. Além disso, o relatório apenas para visualização no formato HTML e o output do desafio no formato CSV.
 
 Agradeço desde já pela atenção.
 
